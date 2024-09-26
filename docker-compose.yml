@@ -2,5 +2,5 @@ version : "3.3"
 services :
   frontend :
     image : ankitrawat3987/my-note-app:latest
-     ports :
+    ports :
          - "8000:8000"
